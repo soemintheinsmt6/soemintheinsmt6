@@ -9,8 +9,6 @@
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=soemintheinsmt6&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soemintheinsmt6&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soemintheinsmt6&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 ### 📫 Reach me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soemin-thein) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soemin.thein.16696) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soemin_thein) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soeminthein_) 
